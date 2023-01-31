@@ -1,0 +1,35 @@
+{
+  "name": "one-monokai-darker-spectrum",
+  "displayName": "One Monokai Darker Spectrum",
+  "description": "One Dark Pro Monokai Darker + Monokai Spectrum",
+  "publisher": "Ivan Kinder",
+  "author": {
+    "name": "Ivan Kinder"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark", 
+    "Gray",
+    "Monokai", 
+    "One Dark Pro", 
+    "Spectrum", 
+    "One Monokai"
+    
+  
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Monokai Darker Spectrum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Monokai Darker Spectrum-color-theme.json"
+      }
+    ]
+  }
+}
