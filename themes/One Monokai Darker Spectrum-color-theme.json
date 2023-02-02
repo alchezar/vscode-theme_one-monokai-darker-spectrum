@@ -169,7 +169,7 @@
 		"editor.inactiveSelectionBackground": "#11111180",
 		"editor.inlineValuesBackground": "#ffc80033",
 		"editor.inlineValuesForeground": "#ffffff80",
-		"editor.lineHighlightBorder": "#282828",
+		"editor.lineHighlightBorder": "#ff000000",
 		"editor.linkedEditingBackground": "#ff00004d",
 		"editor.rangeHighlightBackground": "#ffffff0b",
 		"editor.snippetFinalTabstopHighlightBorder": "#525252",
