@@ -1,14 +1,18 @@
 {
-  "name": "one-monokai-darker-spectrum",
+  "name": "one-monokai-darker-spectrum-0.0.2",
   "displayName": "One Monokai Darker Spectrum",
-  "description": "One Dark Pro Monokai Darker + Monokai Spectrum",
-  "publisher": "Ivan Kinder",
+  "description": "Combination of Monokai Spectrum with One Dark Pro themes.",
+  "publisher": "IvanKinder",
   "author": {
     "name": "Ivan Kinder"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alchezar/vscode-theme_one-monokai-darker-spectrum"
   },
   "categories": [
     "Themes"
@@ -17,11 +21,14 @@
     "Dark", 
     "Gray",
     "Monokai", 
-    "One Dark Pro", 
     "Spectrum", 
-    "One Monokai"
-    
-  
+    "One Monokai",
+    "One Dark",
+    "One Dark Pro", 
+    "One Monokai Dark", 
+    "One Nomokai Darker",
+    "Kinder",
+    "IvanKinder"    
   ],
   "contributes": {
     "themes": [
