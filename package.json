@@ -6,6 +6,7 @@
   "author": {
     "name": "Ivan Kinder"
   },
+  "icon": "OMDS.png",
   "version": "0.5.0",
   "engines": {
     "vscode": "^1.74.0"
