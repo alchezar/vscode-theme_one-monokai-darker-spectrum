@@ -6,7 +6,7 @@
   "author": {
     "name": "Ivan Kinder"
   },
-  "version": "0.0.3",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -18,17 +18,17 @@
     "Themes"
   ],
   "keywords": [
-    "Dark", 
+    "Dark",
     "Gray",
-    "Monokai", 
-    "Spectrum", 
+    "Monokai",
+    "Spectrum",
     "One Monokai",
     "One Dark",
-    "One Dark Pro", 
-    "One Monokai Dark", 
+    "One Dark Pro",
+    "One Monokai Dark",
     "One Nomokai Darker",
     "Kinder",
-    "IvanKinder"    
+    "IvanKinder"
   ],
   "contributes": {
     "themes": [
