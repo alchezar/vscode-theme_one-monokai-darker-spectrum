@@ -989,14 +989,12 @@
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#F8F8F0",
-				"background": "#C678DD"
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
 				"foreground": "#F8F8F0",
-				"background": "#56B6C2"
 			}
 		},
 		{
