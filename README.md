@@ -1,7 +1,10 @@
 # one-monokai-darker-spectrum 
 
-## I made it for myself, but maybe you will like it 😇
-Gray background with **lots** of colors.
+While installing dozens of themes, I realized that the only way to find the perfect theme is to make it. Or to be more precise, combine 2 other themes into one. 
+
+Gray background with **lots** of colors. Maybe you will like it 😇
+
+Used only with  **C++** and did not test it in other languages.
 
 ## Examples
 
