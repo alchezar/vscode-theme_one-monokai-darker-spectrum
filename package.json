@@ -7,7 +7,7 @@
     "name": "Ivan Kinder"
   },
   "icon": "OMDS.png",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "engines": {
     "vscode": "^1.74.0"
   },
