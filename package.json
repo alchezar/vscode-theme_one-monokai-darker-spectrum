@@ -1,7 +1,7 @@
 {
   "name": "one-monokai-darker-spectrum",
   "displayName": "One Monokai Darker Spectrum",
-  "description": "Combination of Monokai Spectrum with One Dark Pro themes.",
+  "description": "Combination of Monokai Spectrum with One Dark Pro Monokai Darker themes.",
   "publisher": "IvanKinder",
   "author": {
     "name": "Ivan Kinder"
@@ -29,8 +29,10 @@
     "One Monokai Dark",
     "One Nomokai Darker",
     "One Monokai Darker Spectrum",
+    "One Dark Pro Monokai Darker",
     "Kinder",
-    "IvanKinder"
+    "IvanKinder",
+    "KinderIvan"
   ],
   "contributes": {
     "themes": [
