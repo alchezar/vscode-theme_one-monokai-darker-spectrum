@@ -5,15 +5,15 @@ Gray background with **lots** of colors.
 
 ## Examples
 
-![Alt text](example_1.png)
- 
-![Alt text](example_2.png)
+![Alt text](examples/example_1.png)
 
-![Alt text](example_3.png)
+![Alt text](examples/example_2.png)
 
-![Alt text](example_4.png)
+![Alt text](examples/example_3.png)
 
-![Alt text](example_5.png)
+![Alt text](examples/example_4.png)
+
+![Alt text](examples/example_5.png)
 
 
 **Enjoy!**
