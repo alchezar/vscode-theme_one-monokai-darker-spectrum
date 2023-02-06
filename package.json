@@ -1,13 +1,13 @@
 {
   "name": "one-monokai-darker-spectrum",
   "displayName": "One Monokai Darker Spectrum",
-  "description": "Combination of Monokai Spectrum with One Dark Pro Monokai Darker themes.",
+  "description": "Combination of **Monokai Pro (filter Spectrum)** with **One Dark Pro Monokai Darker** themes.",
   "publisher": "IvanKinder",
   "author": {
     "name": "Ivan Kinder"
   },
   "icon": "OMDS.png",
-  "version": "0.9.1",
+  "version": "0.9.3",
   "engines": {
     "vscode": "^1.74.0"
   },
