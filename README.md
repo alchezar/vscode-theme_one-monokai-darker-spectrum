@@ -1,4 +1,3 @@
-# one-monokai-darker-spectrum 
 
 While installing dozens of themes, I realized that the only way to find the perfect theme is to make it. Or to be more precise, combine 2 other themes into new one. 
 
